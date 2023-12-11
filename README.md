@@ -5,5 +5,5 @@ Sorted in folders.
 usage:
 python3 extractor.py -f list-of-domains.txt
 
-#requirement:
+# requirement:
 gin: [https://github.com/sbp/gin](https://github.com/sbp/gin)  (sudo pip install gin)
